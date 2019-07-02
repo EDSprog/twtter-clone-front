@@ -1,0 +1,8 @@
+node_modules/
+build
+public/*
+docs/
+!public/index.html
+configs/database.json
+configs/config.json
+npm-debug.log
